@@ -1,2 +1,2 @@
-# Sudoku-with-Python
+# Sudoku
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
